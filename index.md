@@ -31,6 +31,7 @@ Listed below are all of the cyber security and IT projects I have worked on. Eac
   - Demonstrating Basic Linux Commands and Security Measures through CentOS
   - Analyzing Process Relationships and Scheduling
   - File System Management and Asymmetric Encryption in CentOS
+  - User Accounts Management, Permissions, and Privileges in CentOS and Analyzing the Dirty Cow Exploit
 
 #### Secure Web Application Development
   - Cross-Site Request Forgery
