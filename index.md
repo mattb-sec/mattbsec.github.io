@@ -3,11 +3,13 @@
 
 My name is Matthew, and I am a cyber security and IT professional. From a young age, I have always been fascinated by computers and their endless possibilities, ranging from creating websites (like this one!) to producing music. As my passion for technology grew, I have come to discover that my true passion lies in helping maintain the safety and security of people's data. My focus is primarily on blue team cyber security activties, and my favorite domains are: Log analysis, risk management, intrusion detection, incident response, information assurance, and digital forensics. I strive to protect systems from threats and ensure my digital environments are secure. This portfolio highlights my journey, skills, and projects that reflect my dedication to safeguarding valuable information in the digital world.
 
-## Header 2
+## My projects
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- Information Assurance
+  - Demonstrating RSA Encryption and Discussing Public Key Infrastructure
+  - Exploring Virtualization, Nmap, and Basic Cyber Security Applications
+  - Exploring Wireshark and Analyzing Various Packets and Their Protocols
+
 
 ### Header 3
 
