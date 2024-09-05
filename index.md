@@ -28,7 +28,7 @@ Listed below are all of the cyber security and IT projects I have worked on. Eac
   - Demonstrating CentOS Logical Volume Extension and Analysis of Asymmetric Encryption
   - Installing the Linux Operating System on a Virtual Machine
 
-####Secure Web Application Development
+#### Secure Web Application Development
   - Cross-Site Request Forgery
   - Cross-Site Scripting (XSS) Attack
   - SQL Code Injection
