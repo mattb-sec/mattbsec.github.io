@@ -7,15 +7,26 @@ My name is Matthew, and I am a cyber security and IT professional. From a young 
 Listed below are all of the cyber security and IT projects I have worked on. Each project is categorized under its respective cyber security domain.
 
 
-### Information Assurance
+### Cyber Security Reports and Analyses
 
+#### Information Assurance
   - Demonstrating RSA Encryption and Discussing Public Key Infrastructure
   - Exploring Virtualization, Nmap, and Basic Cyber Security Applications
   - Exploring Wireshark and Analyzing Various Packets and Their Protocols
 
+#### Intrusion Detection and Incident Response
+  - Continuing in SimSpace, Demonstrating an ICMP Stream, and Analyzing Tools for Intrusion Detection
+
+#### Network Security
+  - Demonstrating RSA Encryption and Discussing Public Key Infrastructure
+  - Attacking a Virtual Private Network
+  - Configuring a Virtual Private Network Server
+  - Penetration Testing a pfSense Firewall
+  - Using Social Engineering to Plan an Attack
+
 #### Header 4
 
-*   This is an unordered list following a header.
+*   Applying Encryption Algorithms for Secure Communications
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
