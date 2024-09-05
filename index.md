@@ -24,11 +24,15 @@ Listed below are all of the cyber security and IT projects I have worked on. Eac
   - Penetration Testing a pfSense Firewall
   - Using Social Engineering to Plan an Attack
 
-#### Header 4
+#### Operating Systems
+  - Demonstrating CentOS Logical Volume Extension and Analysis of Asymmetric Encryption
+  - Installing the Linux Operating System on a Virtual Machine
 
-*   Applying Encryption Algorithms for Secure Communications
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+####Secure Web Application Development
+  - Cross-Site Request Forgery
+  - Cross-Site Scripting (XSS) Attack
+  - SQL Code Injection
+  - Web Tracking
 
 ##### Header 5
 
