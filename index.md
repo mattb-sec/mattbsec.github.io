@@ -34,6 +34,14 @@ Listed below are all of the cyber security and IT projects I have worked on. Eac
   - SQL Code Injection
   - Web Tracking
 
+### Malicious Link Analysis
+  - Poisoned Job Application Link
+  - Steam Gift Scam
+
+### Security Audit
+  - Botium Scope and Goals and Risk Assessment Report
+  - Controls and Compliance Checklist
+
 ##### Header 5
 
 1.  This is an ordered list following a header.
