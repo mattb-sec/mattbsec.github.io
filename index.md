@@ -13,6 +13,7 @@ Listed below are all of the cyber security and IT projects I have worked on. Eac
   - Demonstrating RSA Encryption and Discussing Public Key Infrastructure
   - Exploring Virtualization, Nmap, and Basic Cyber Security Applications
   - Exploring Wireshark and Analyzing Various Packets and Their Protocols
+  - Password Cracking Methods and an Analysis of Password Cracking Programs
 
 #### Intrusion Detection and Incident Response
   - Continuing in SimSpace, Demonstrating an ICMP Stream, and Analyzing Tools for Intrusion Detection
