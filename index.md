@@ -1,18 +1,7 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Welcome!
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+My name is Matthew, and I am a cyber security and IT professional who is dedicated to maintaining the safety and security of people's data. I have been interested in computers since I was very young, and I love learning about all the different things I can do with them ranging from making websites (like this one!) to music production. I want to use this website as a portfolio to show off all my past and present projects regarding cyber security and IT. I hope I can provide some insight to you, the visitor, about my interest and passion for this field!
 
 ## Header 2
 
