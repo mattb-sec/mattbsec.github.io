@@ -18,6 +18,7 @@ Listed below are all of the cyber security and IT projects I have worked on. Eac
 #### Intrusion Detection and Incident Response
   - Continuing in SimSpace, Demonstrating an ICMP Stream, and Analyzing Tools for Intrusion Detection
   - Investigating an Incident and Demonstrating the Incident Response Process
+  - Analyzing Captured Traffic and Investigating a Potential Cyber Attack
 
 #### Network Security
   - Demonstrating RSA Encryption and Discussing Public Key Infrastructure
