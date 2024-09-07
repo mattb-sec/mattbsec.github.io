@@ -12,7 +12,7 @@ Listed below are all of the cyber security and IT projects I have worked on. Eac
 #### Information Assurance
   - [Demonstrating RSA Encryption and Discussing Public Key Infrastructure](https://mattb-sec.github.io/RSAandPKI/)
   - [Exploring Virtualization, Nmap, and Basic Cyber Security Applications](https://mattb-sec.github.io/Virtualization-Nmap-CSecApps/)
-  - Exploring Wireshark and Analyzing Various Packets and Their Protocols
+  - [Exploring Wireshark and Analyzing Various Packets and Their Protocols](https://mattb-sec.github.io/Wireshark/)
   - Password Cracking Methods and an Analysis of Password Cracking Programs
 
 #### Intrusion Detection and Incident Response
