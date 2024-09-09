@@ -19,7 +19,7 @@ Listed below are all of the cyber security and IT projects I have worked on. Eac
 
 #### Intrusion Detection and Incident Response
   - [Continuing in SimSpace, Demonstrating an ICMP Stream, and Analyzing Tools for Intrusion Detection](https://mattb-sec.github.io/IntrusionDetectionTools/)
-  - Investigating an Incident and Demonstrating the Incident Response Process
+  - [Investigating an Incident and Demonstrating the Incident Response Process](https://mattb-sec.github.io/IncidentInvestigation/)
   - Analyzing Captured Traffic and Investigating a Potential Cyber Attack
   - A Deep Analysis of a Volatile Memory Capture File and Investigation of One or More Cyber Attacks (one of my favorites!)
 
