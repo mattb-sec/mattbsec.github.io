@@ -24,7 +24,7 @@ Listed below are all of the cyber security and IT projects I have worked on. Eac
   - [A Deep Analysis of a Volatile Memory Capture File and Investigation of One or More Cyber Attacks (one of my favorites!)](https://mattb-sec.github.io/MemoryInvestigation/)
 
 #### Network Security
-  - Demonstrating RSA Encryption and Discussing Public Key Infrastructure
+  - Applying Encryption Algorithms for Secure Communications
   - Attacking a Virtual Private Network
   - Configuring a Virtual Private Network Server
   - Penetration Testing a pfSense Firewall
