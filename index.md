@@ -26,7 +26,7 @@ Listed below are all of the cyber security and IT projects I have worked on. Eac
 #### Network Security
   - [Applying Encryption Algorithms for Secure Communications](https://mattb-sec.github.io/SecureComms/)
   - [Configuring a Virtual Private Network Server](https://mattb-sec.github.io/VPNConfig/)
-  - Attacking a Virtual Private Network
+  - [Attacking a Virtual Private Network](https://mattb-sec.github.io/VPNAttack/)
   - Penetration Testing a pfSense Firewall
   - Using Social Engineering to Plan an Attack
 
