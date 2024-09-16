@@ -31,7 +31,7 @@ Listed below are all of the cyber security and IT projects I have worked on. Eac
   - [Using Social Engineering to Plan an Attack](https://mattb-sec.github.io/SocialEngineering/)
 
 #### Operating Systems
-  - Installing the Linux Operating System on a Virtual Machine
+  - [Installing the Linux Operating System on a Virtual Machine](https://mattb-sec.github.io/LinuxInstall/)
   - Demonstrating CentOS Logical Volume Extension and Analysis of Asymmetric Encryption
   - Demonstrating Basic Linux Commands and Security Measures through CentOS
   - Analyzing Process Relationships and Scheduling
