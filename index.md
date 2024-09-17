@@ -33,7 +33,7 @@ Listed below are all of the cyber security and IT projects I have worked on. Eac
 #### Operating Systems
   - [Installing the Linux Operating System on a Virtual Machine](https://mattb-sec.github.io/LinuxInstall/)
   - [Basic Linux Commands and Security Measures in CentOS](https://mattb-sec.github.io/LinuxCommands/)
-  - Demonstrating CentOS Logical Volume Extension and Analysis of Asymmetric Encryption
+  - [Demonstrating CentOS Logical Volume Extension and Analysis of Asymmetric Encryption on a Hard Drive](https://mattb-sec.github.io/FileSysMgmt/)
   - Analyzing Process Relationships and Scheduling
   - File System Management and Asymmetric Encryption in CentOS
   - User Accounts Management, Permissions, and Privileges in CentOS and Analyzing the Dirty Cow Exploit
