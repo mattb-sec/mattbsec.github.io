@@ -35,8 +35,7 @@ Listed below are all of the cyber security and IT projects I have worked on. Eac
   - [Basic Linux Commands and Security Measures in CentOS](https://mattb-sec.github.io/LinuxCommands/)
   - [Demonstrating CentOS Logical Volume Extension and Analysis of Asymmetric Encryption on a Hard Drive](https://mattb-sec.github.io/FileSysMgmt/)
   - [Analyzing Process Relationships and Scheduling](https://mattb-sec.github.io/ProcessAnalysis/)
-  - Exploring Network Architecture and Implementing Firewall Rules
-  - User Accounts Management, Permissions, and Privileges in CentOS and Analyzing the Dirty Cow Exploit
+  - [User Accounts Management, Permissions, and Privileges in CentOS and Analyzing the Dirty Cow Exploit](https://mattb-sec.github.io/UserMgmt/)
 
 #### Secure Web Application Development
   - Cross-Site Request Forgery
