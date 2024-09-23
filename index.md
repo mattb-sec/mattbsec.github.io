@@ -39,7 +39,7 @@ Listed below are all of the cyber security and IT projects I have worked on. Eac
 
 #### Secure Web Application Development
   - [Web Tracking](https://mattb-sec.github.io/WebTracking/)
-  - Cross-Site Scripting (XSS) Attack
+  - [Cross-Site Scripting (XSS) Attack](https://mattb-sec.github.io/XSS/)
   - Cross-Site Request Forgery
   - SQL Code Injection
 
