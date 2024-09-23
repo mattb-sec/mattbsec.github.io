@@ -38,10 +38,10 @@ Listed below are all of the cyber security and IT projects I have worked on. Eac
   - [User Accounts Management, Permissions, and Privileges in CentOS and Analyzing the Dirty Cow Exploit](https://mattb-sec.github.io/UserMgmt/)
 
 #### Secure Web Application Development
-  - [Web Tracking](https://mattb-sec.github.io/WebTracking/)
+  - [Web Tracking](https://mattb-sec.github.io/WebTracking2/)
   - [Cross-Site Scripting (XSS) Attack](https://mattb-sec.github.io/XSS/)
   - [Cross-Site Request Forgery](https://mattb-sec.github.io/CSRF/)
-  - SQL Code Injection
+  - [SQL Code Injection](https://mattb-sec.github.io/SQLInject/)
 
 
 ### Malicious Link Analysis
