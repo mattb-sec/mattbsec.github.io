@@ -49,5 +49,5 @@ Listed below are all of the cyber security and IT projects I have worked on. Eac
   - [Steam Gift Scam](https://mattb-sec.github.io/SteamScam/)
 
 ### Security Audit
-  - Botium Scope and Goals and Risk Assessment Report
+  - [Botium Scope and Goals and Risk Assessment Report](https://mattb-sec.github.io/BotiumRiskAssessment/)
   - Controls and Compliance Checklist
