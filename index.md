@@ -46,7 +46,7 @@ Listed below are all of the cyber security and IT projects I have worked on. Eac
 
 ### Malicious Link Analysis
   - [Poisoned Job Application Link](https://mattb-sec.github.io/BadJobApp/)
-  - Steam Gift Scam
+  - [Steam Gift Scam](https://mattb-sec.github.io/SteamScam/)
 
 ### Security Audit
   - Botium Scope and Goals and Risk Assessment Report
