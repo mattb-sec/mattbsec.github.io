@@ -9,7 +9,7 @@ My name is Matthew, and I am a cyber security and IT professional. From a young 
 Listed below are all of the cyber security and IT projects I have worked on. Each project is categorized under its respective cyber security domain.
 
 
-### Cyber Security Reports and Analyses
+### Cyber Security Projects and Reports
 
 #### Information Assurance
   - [Demonstrating RSA Encryption and Discussing Public Key Infrastructure](https://mattb-sec.github.io/RSAandPKI/)
