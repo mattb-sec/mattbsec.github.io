@@ -8,6 +8,10 @@ Hello, and thank you for stopping by! My name is Matthew, and I am a cyber secur
 ## My Projects
 Listed below are all of the cyber security and IT projects I have worked on. Each project is categorized under its respective cyber security domain.
 
+### Creating a Security Operations Center in Azure
+
+- [Creating the SIEM](https://mattb-sec.github.io/AzureSIEM/)
+- Creating the Threat Intelligence Feed
 
 ### Cyber Security Reports and Analyses
 
