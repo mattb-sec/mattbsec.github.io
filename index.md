@@ -11,7 +11,7 @@ Listed below are all of the cyber security and IT projects I have worked on. Eac
 ### Creating a Security Operations Center in Azure
 
 - [Creating the SIEM](https://mattb-sec.github.io/AzureSIEM/)
-- Creating the Threat Intelligence Feed
+- [Creating the Threat Intelligence Feed](https://mattb-sec.github.io/ThreatIntel/)
 
 ### Cyber Security Reports and Analyses
 
